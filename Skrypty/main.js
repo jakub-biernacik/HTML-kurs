@@ -1,0 +1,1 @@
+alert("Oto moja pierwsza strona html");
